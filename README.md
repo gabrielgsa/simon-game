@@ -4,4 +4,4 @@ An instance of the famous eletronic game Simon, where the player has to memorize
 
 To play the game, simply open the index file on the browser
 
-![simon-game](https://github.com/gabrielgsa/simon-game/simon-game.png)
+![simon-game](https://github.com/gabrielgsa/simon-game/public/simon-game.png)
